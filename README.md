@@ -1,1 +1,2 @@
 # AiVirtualPainter
+Created a dynamic virtual painting application utilizing Python, MediaPipe, and OpenCV. Implemented hand landmark detection and gesture analysis to map hand movements to digital brushstrokes. Employed algorithms to control brush size, color, and drawing actions based on hand gestures. Achieved real-time performance and interactive user experience. Showcased expertise in computer vision, real-time processing, and Python programming.
